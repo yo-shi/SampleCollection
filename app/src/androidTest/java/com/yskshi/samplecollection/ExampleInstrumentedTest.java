@@ -1,4 +1,4 @@
-package com.yskshi.samplecollection2;
+package com.yskshi.samplecollection;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

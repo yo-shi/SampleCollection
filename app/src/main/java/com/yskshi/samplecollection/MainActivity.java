@@ -1,4 +1,4 @@
-package com.yskshi.samplecollection2;
+package com.yskshi.samplecollection;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

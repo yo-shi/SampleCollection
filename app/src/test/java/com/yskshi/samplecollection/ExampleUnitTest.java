@@ -1,4 +1,4 @@
-package com.yskshi.samplecollection2;
+package com.yskshi.samplecollection;
 
 import org.junit.Test;
 
